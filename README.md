@@ -1,13 +1,10 @@
-README.md
+### ds mini-project
 
-ds mini-project
-
-to built docker image do:
+to built docker image do (this may take a while):
 ```
 git clone ‘https://github.com/silven1504/chat_classifier.git’
 docker build -t classifier:1.0 .
 ```
-(this may take a while)
 
 for starting rest-api app do
 ```
